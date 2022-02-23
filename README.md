@@ -1,6 +1,6 @@
 <h2>Desafio Sidebar</h2>
 
-![Group 1](https://user-images.githubusercontent.com/73071973/142681567-607a3217-d136-4536-977b-f46bc0e28ed8.png)
+![mockup](https://user-images.githubusercontent.com/73071973/155383050-ebbbb478-a1a3-411d-b267-94014067d944.svg)
 
 <h3>🛠 Technologies</h3>
 <ul>
@@ -18,7 +18,7 @@
 <p>In this challenge I developed a sidebar as in the image above. When the user clicks on the menu icon this should make the sidebar change the state from "open", showing icons and text, to "closed", showing only the icons.
 
 <h3>🎓 Achievements</h3>
-<>Use of advanced CSS selectors like ":first-child", ":nth-child()", ":not", pseudo elements and transition / transforme.<br>
+<p>Use of advanced CSS selectors like ":first-child", ":nth-child()", ":not", pseudo elements and transition / transforme.<br>
 All layout images and icons were inserted with CSS, avoiding the use of HTML. This is good for future accessibility improvement.<br>
 Heavy use of responsive units in CSS and variables for colors and fonts.<br>
 Different card order for desktop and mobile versions.<br>
